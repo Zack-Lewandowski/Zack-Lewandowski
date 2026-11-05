@@ -1,16 +1,16 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Zack%20Lewandowski%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22Zack-Lewandowski%22%2C%22name%22%3A%22Zachariah%20Lewandowski%22%2C%22email%22%3A%22zeus.bikerzack%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22Foundational%20Skills%20for%20IT%20Professionals%22%2C%22issuer%22%3A%22MyComputerCareer%22%2C%22link%22%3A%22https%3A%2F%2Fgithub.com%2FZack-Lewandowski%2FMyCC-certificates%2Fblob%2Fmain%2FNet%2520I%2520CoC%252011.2026%2520112%2520(1).pdf%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
-<img src="https://github.com/Zack Lewandowski.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
+<img src="https://github.com/Zack-Lewandowski.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there, I'm Your Name
+# Hi there, I'm Zachariah Lewandowski
 
-**Your Name**
+**Zachariah Lewandowski**
 
 *ITSA Student*
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40Zack Lewandowski-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zack Lewandowski)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40Zack-Lewandowski-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zack-Lewandowski) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zeus.bikerzack@gmail.com)
 
 </div>
 
@@ -25,6 +25,14 @@
 ## Skills Learned
 
 *Select skills in the builder to display them here.*
+
+---
+
+## 🏆 Certifications & Digital Badges
+
+| Certification | Issuer | Verify | Badge |
+|---|---|---|---|
+| Foundational Skills for IT Professionals | MyComputerCareer | [Verify](https://github.com/Zack-Lewandowski/MyCC-certificates/blob/main/Net%20I%20CoC%2011.2026%20112%20(1).pdf) | — |
 
 ---
 
